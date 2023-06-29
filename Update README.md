@@ -1,2 +1,1 @@
-
-Goodbye World Master Branch 
+Hello Goodbye from the merge of the feature and master.
