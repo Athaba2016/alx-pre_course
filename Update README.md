@@ -1,2 +1,1 @@
-
-Hello feature Branch World
+Hello Goodbye from the merge of the feature and master.
